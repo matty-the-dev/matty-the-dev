@@ -43,7 +43,7 @@ You can find me on...
 
 <a href="https://www.buymeacoffee.com/mf366"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=mf366&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-<br/> <!-- we cheat too badss -->
+<br/><br/> <!-- we cheat too badss -->
 
 ## Gaming 🎮
 So, let's talk about gaming...
