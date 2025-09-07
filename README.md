@@ -1,8 +1,6 @@
 # Hey, didn't see you there! 👋
 You can call me [MF366](https://github.com/MF366-Coding).
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bgputndgrm2fge7loho5oy108&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgputndgrm2fge7loho5oy108&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ffcc00&bar_color_cover=true" alt="spotify-github-profile" width="300" align="left" /></a>
-
 <img alt="MF366-Coding's Stats" src="https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" />
 
 <!-- hiding JavaScript, HTML and CSS cuz only in 1 repo; hiding BASIC cuz archive probably??; hiding tcl cuz ugh and yeah -->
