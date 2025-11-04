@@ -1,5 +1,5 @@
-# Hey, didn't see you there! 👋
-You can call me [MF366](https://github.com/MF366-Coding).
+# Hey there! 👋
+The name's Matthew, but feel free to call me MF366.
 
 <img alt="MF366-Coding's Stats" src="https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" />
 
@@ -29,7 +29,7 @@ I'd like you to meet:
 - [**Norb**](https://github.com/norbcodes)
 - [**OceanApocalypseStudios**](https://github.com/OceanApocalypseStudios)
 
-## Me on ze Internet 💻
+## Online Presence 💻
 <a href="https://app.daily.dev/mf366"><img src="https://api.daily.dev/devcards/v2/psZxWT5u6YaQ67P6ILf73.png?type=default&r=9rn" width="200" alt="MF366's Dev Card" align="left" style="padding: 5px;" /></a>
 
 You can find me on...
@@ -50,7 +50,7 @@ I'm a hell of a Doom fan.
 
 I also play **Super Mario 64**, **Kindergarten**, **Supaplex**, **Undertale**, **Deltarune** and many others. But we're on GitHub. That don't matter lolz. 
 
-## My Translation Services 🫡
+<!-- ## My Translation Services 🫡
 > **My translation services are currently on hold.**
 
 ### Logo
@@ -69,7 +69,7 @@ I also play **Super Mario 64**, **Kindergarten**, **Supaplex**, **Undertale**, *
 <img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_2Colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Light Mode)
 
 ### Simple Badge
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode)
+<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode) -->
 
 <!--
 **MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
