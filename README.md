@@ -54,25 +54,25 @@ I also play **Super Mario 64**, **Kindergarten**, **Supaplex**, **Undertale**, *
 > **My translation services are currently on hold.**
 
 ### Logo
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Logo.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Logo.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
 
 ### Badges w/ Logo
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px" align="left"></img>
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px" align="left"></img>
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Green.png" alt="My translation service" title="Translation Service" style="width:200px" align="left"></img>
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Green.png" alt="My translation service" title="Translation Service" style="width:200px" align="left"></img>
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Red.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Red.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
 
 ### Badges w/ 2 Colors (No Logo)
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Dark.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode)
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Simple_Dark.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode)
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_2Colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Light Mode)
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Simple_2Colors.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Light Mode)
 
 ### Simple Badge
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode) -->
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Simple_Yellow.png" alt="My translation service" title="Translation Service" style="width:200px"></img> (Dark Mode) -->
 
 <!--
-**MF366-Coding/MF366-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matty-the-dev/matty-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
