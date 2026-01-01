@@ -1,17 +1,17 @@
 # Hey there! 👋
 The name's Matthew, but feel free to call me MF366.
 
-<img alt="MF366-Coding's Stats" src="https://github-readme-stats.vercel.app/api?username=MF366-Coding&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" />
+<img alt="matty-the-dev's Stats" src="https://github-readme-stats.vercel.app/api?username=matty-the-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" />
 
 <!-- hiding JavaScript, HTML and CSS cuz only in 1 repo; hiding BASIC cuz archive probably??; hiding tcl cuz ugh and yeah -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF366-Coding&layout=compact&langs_count=6&theme=tokyonight&hide=basic,javascript,css,tcl,html" title="Used Languages" alt="Used languages" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-the-dev&layout=compact&langs_count=6&theme=tokyonight&hide=basic,javascript,css,tcl,html" title="Used Languages" alt="Used languages" width="350" />
 
 ## Translation Services 🌐
 > **My translation services are on hold right now.**
 
 I provide translation services to Portuguese on my Buy Me A Coffee. Scroll to learn more.
 
-<img src="https://github.com/MF366-Coding/MF366-Coding/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
+<img src="https://github.com/matty-the-dev/matty-the-dev/blob/main/Badge_Black.png" alt="My translation service" title="Translation Service" style="width:200px"></img>
 
 ## About me 🧐
 * 👨 __Pronouns:__ he/him
