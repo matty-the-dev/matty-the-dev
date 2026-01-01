@@ -1,10 +1,12 @@
 # Hey there! 👋
 The name's Matthew, but feel free to call me MF366.
 
-<img alt="matty-the-dev's Stats" src="https://github-readme-stats.vercel.app/api?username=matty-the-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" />
+<!--
+<img alt="matty-the-dev's Stats" src="[https://github-readme-stats.vercel.app/api?username=matty-the-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"](https://github-readme-stats.vercel.app/api?username=matty-the-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=false") />
 
-<!-- hiding JavaScript, HTML and CSS cuz only in 1 repo; hiding BASIC cuz archive probably??; hiding tcl cuz ugh and yeah -->
+<!-- hiding JavaScript, HTML and CSS cuz only in 1 repo; hiding BASIC cuz archive probably??; hiding tcl cuz ugh and yeah -|->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty-the-dev&layout=compact&langs_count=6&theme=tokyonight&hide=basic,javascript,css,tcl,html" title="Used Languages" alt="Used languages" width="350" />
+-->
 
 ## Translation Services 🌐
 > **My translation services are on hold right now.**
